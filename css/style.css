@@ -30,7 +30,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 #papafoot {
-    background-image: url(images/index/footer.jpg);
+   /* background-image: url(images/index/footer.jpg);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: border-box;
@@ -61,7 +61,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 #kyleactive {
-    background: #ef5350;
+    background: #f44336;
     color: white;
 
 }
@@ -201,8 +201,17 @@ footer.page-footer {
     height: 200px;
 }
 
-#h380 {
-    height: 380px;
+.h250{
+
+    max-height: 250px;
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+.h380 {
+    max-height: 380px;
+    overflow-x: hidden;
+    max-width: 100%;
 }
 
 #h450 {
