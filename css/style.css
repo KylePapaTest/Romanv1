@@ -236,3 +236,19 @@ footer.page-footer {
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating):hover {
     color: #f44336;
 }
+
+.papaupdatebtn{
+    padding: 10px 50px 10px;
+}
+
+.papaupdatebtn1{
+    padding: 10px 92px 10px;
+}
+
+.papaupdatebtn2{
+    padding: 10px 83px 10px;
+}
+
+.papaupdatebtn3{
+    padding: 10px 44px 10px;
+}
