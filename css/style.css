@@ -29,6 +29,11 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 }
 
+.pstory {
+font-family: 'Ubuntu', sans-serif;
+font-size: 30px;
+}
+
 #papafoot {
    /* background-image: url(images/index/footer.jpg);*/
     background-size: cover;
@@ -251,4 +256,19 @@ footer.page-footer {
 
 .papaupdatebtn3{
     padding: 10px 44px 10px;
+}
+
+
+
+
+.papaupdatebtn4{
+    padding: 10px 53px 10px;
+}
+
+.papaupdatebtn5{
+    padding: 10px 48px 10px;
+}
+
+.papaupdatebtn6{
+    padding: 10px 27px 10px;
 }
